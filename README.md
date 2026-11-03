@@ -20,5 +20,5 @@ Estudiante de Ingeniería de Sistemas y Computación y de Ciencia de Datos en la
 
 ## Contacto
 
-- LinkedIn: [linkedin.com/in/josemorales](https://www.linkedin.com/in/josemorales)
+- LinkedIn: [linkedin.com/in/josemorales](https://www.linkedin.com/in/jose-morales-b7a959383/)
 - Correo: jr.moralesv1@uniandes.edu.co
